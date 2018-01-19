@@ -6,8 +6,8 @@
     <ProjectGuid>{3AF05DC6-580D-410B-9AA4-E0DAB3048992}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Moq.Dapper.Test</RootNamespace>
-    <AssemblyName>Moq.Dapper.Test</AssemblyName>
+    <RootNamespace>Moq.Dapper.Contrib.Test</RootNamespace>
+    <AssemblyName>Moq.Dapper.Contrib.Test</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -67,9 +67,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Moq.Dapper\Moq.Dapper.csproj">
+    <ProjectReference Include="..\Moq.Dapper\Moq.Dapper.Contrib.csproj">
       <Project>{7430287c-81cf-4bb0-889a-d73aaa7e8313}</Project>
-      <Name>Moq.Dapper</Name>
+      <Name>Moq.Dapper.Contrib</Name>
     </ProjectReference>
     <ProjectReference Include="..\Moq.DataContext\Moq.DataContext.csproj">
       <Project>{ef1dff93-6c0b-4adb-891a-c2c6a1e17ab0}</Project>

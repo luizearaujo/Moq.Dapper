@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26228.4
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moq.Dapper.Test", "Moq.Dapper.Test\Moq.Dapper.Test.csproj", "{3AF05DC6-580D-410B-9AA4-E0DAB3048992}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moq.Dapper.Contrib.Test", "Moq.Dapper.Test\Moq.Dapper.Contrib.Test.csproj", "{3AF05DC6-580D-410B-9AA4-E0DAB3048992}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moq.Dapper", "Moq.Dapper\Moq.Dapper.csproj", "{7430287C-81CF-4BB0-889A-D73AAA7E8313}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moq.Dapper.Contrib", "Moq.Dapper\Moq.Dapper.Contrib.csproj", "{7430287C-81CF-4BB0-889A-D73AAA7E8313}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moq.DataContext", "Moq.DataContext\Moq.DataContext.csproj", "{EF1DFF93-6C0B-4ADB-891A-C2C6A1E17AB0}"
 EndProject

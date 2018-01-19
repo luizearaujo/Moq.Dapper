@@ -7,8 +7,8 @@
     <ProjectGuid>{7430287C-81CF-4BB0-889A-D73AAA7E8313}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Moq.Dapper</RootNamespace>
-    <AssemblyName>Moq.Dapper</AssemblyName>
+    <RootNamespace>Moq.Dapper.Contrib</RootNamespace>
+    <AssemblyName>Moq.Dapper.Contrib</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
